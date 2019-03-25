@@ -1,2 +1,2 @@
 # Javascript
-Projeto de calcular o IMC do usuário
+Projeto que calcula o IMC do usuário
